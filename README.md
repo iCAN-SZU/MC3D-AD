@@ -69,7 +69,7 @@ Anomaly-shapeNet
 
 
     **Note**: During eval, please *set config.saver.load_path* to load the checkpoints. 
-
+If you have any issues, please go to https://github.com/jiayi-art/MC3D-AD.
 ## Acknowledgement
 
 Our work is inspired by [UniAD](https://github.com/zhiyuanyou/UniAD) , [Reg3D-AD](https://github.com/M-3LAB/Real3D-AD) and [IMRNet](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Towards_Scalable_3D_Anomaly_Detection_and_Localization_A_Benchmark_via_CVPR_2024_paper.html), thanks their extraordinary works!
